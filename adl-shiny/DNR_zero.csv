@@ -1,0 +1,805 @@
+date,longitude,latitude,city,state,dnr_zero,population,abbr
+2010,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2010,-91.18699,30.443342,Baton Rouge,Louisiana,Did Not Report,NA,LA
+2010,-86.80249,33.52066,Birmingham,Alabama,Did Not Report,NA,AL
+2010,-88.15354,41.75084,Naperville,Illinois,Did Not Report,NA,IL
+2010,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2011,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2011,-91.18699,30.443342,Baton Rouge,Louisiana,Did Not Report,NA,LA
+2011,-86.80249,33.52066,Birmingham,Alabama,Did Not Report,NA,AL
+2011,-88.15354,41.75084,Naperville,Illinois,Did Not Report,NA,IL
+2011,-122.435337,45.506276,Gresham,Oregon,Did Not Report,110901,OR
+2011,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2012,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2012,-91.18699,30.443342,Baton Rouge,Louisiana,Did Not Report,NA,LA
+2012,-86.80249,33.52066,Birmingham,Alabama,Did Not Report,NA,AL
+2012,-86.300077,32.380153,Montgomery,Alabama,Did Not Report,NA,AL
+2012,-90.180487,32.298694,Jackson,Mississippi,Did Not Report,170508,MS
+2012,-122.435337,45.506276,Gresham,Oregon,Did Not Report,110901,OR
+2012,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2012,-122.989827,45.522894,Hillsboro,Oregon,Did Not Report,101206,OR
+2013,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2013,-91.18699,30.443342,Baton Rouge,Louisiana,Did Not Report,NA,LA
+2013,-86.80249,33.52066,Birmingham,Alabama,Did Not Report,NA,AL
+2013,-86.300077,32.380153,Montgomery,Alabama,Did Not Report,NA,AL
+2013,-83.36,33.95,Athens-Clarke County,Georgia,Did Not Report,NA,GA
+2013,-122.435337,45.506276,Gresham,Oregon,Did Not Report,110901,OR
+2013,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2013,-122.989827,45.522894,Hillsboro,Oregon,Did Not Report,101206,OR
+2014,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2014,-122.676207,45.523452,Portland,Oregon,Did Not Report,628192,OR
+2014,-91.18699,30.443342,Baton Rouge,Louisiana,Did Not Report,NA,LA
+2014,-86.80249,33.52066,Birmingham,Alabama,Did Not Report,NA,AL
+2014,-86.300077,32.380153,Montgomery,Alabama,Did Not Report,NA,AL
+2014,-88.15354,41.75084,Naperville,Illinois,Did Not Report,NA,IL
+2014,-72.674017,41.763493,Hartford,Connecticut,Did Not Report,NA,CT
+2014,-83.36,33.95,Athens-Clarke County,Georgia,Did Not Report,NA,GA
+2014,-86.59,34.73,Huntsville,Alabama,Did Not Report,190106,AL
+2014,-122.435337,45.506276,Gresham,Oregon,Did Not Report,110901,OR
+2014,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2014,-122.989827,45.522894,Hillsboro,Oregon,Did Not Report,101206,OR
+2015,-157.858093,21.315603,Honolulu,Hawaii,Did Not Report,867258,HI
+2015,-81.656217,30.331474,Jacksonville,Florida,Did Not Report,867258,FL
+2015,-122.676207,45.523452,Portland,Oregon,Did Not Report,628192,OR
+2015,-80.197728,25.774813,Miami,Florida,Did Not Report,437969,FL
+2015,-82.459269,27.946532,Tampa,Florida,Did Not Report,364383,FL
+2015,-81.377389,28.538234,Orlando,Florida,Did Not Report,268438,FL
+2015,-82.638757,27.771192,St. Petersburg,Florida,Did Not Report,255821,FL
+2015,-80.281499,25.826984,Hialeah,Florida,Did Not Report,238132,FL
+2015,-86.59,34.73,Huntsville,Alabama,Did Not Report,190106,AL
+2015,-80.143557,26.12367,Fort Lauderdale,Florida,Did Not Report,178598,FL
+2015,-81.95694,26.629823,Cape Coral,Florida,Did Not Report,173844,FL
+2015,-90.180487,32.298694,Jackson,Mississippi,Did Not Report,170508,MS
+2015,-80.160077,26.010411,Hollywood,Florida,Did Not Report,149822,FL
+2015,-80.220517,25.982051,Miramar,Florida,Did Not Report,138330,FL
+2015,-122.435337,45.506276,Gresham,Oregon,Did Not Report,110901,OR
+2015,-80.125218,26.231453,Pompano Beach,Florida,Did Not Report,107656,FL
+2015,-81.947858,28.044192,Lakeland,Florida,Did Not Report,103498,FL
+2015,-106.763654,32.31994,Las Cruces,New Mexico,Did Not Report,102227,NM
+2015,-122.989827,45.522894,Hillsboro,Oregon,Did Not Report,101206,OR
+2015,-80.252116,26.076478,Davie,Florida,Did Not Report,100612,FL
+2007,-117.874457,33.74958,Santa Ana,California,Reported 0 in at least 1 quarter,340223,CA
+2004,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,NA,AZ
+2007,-114.981509,36.031234,Henderson,Nevada,Reported 0 in at least 1 quarter,251270,NV
+2004,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,NA,AZ
+2004,-119.694767,36.823951,Clovis,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-122.472788,37.691093,Daly City,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-117.43576,34.102052,Fontana,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-117.211787,33.558431,Murrieta,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-117.648097,34.06457,Ontario,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-117.850708,33.787872,Orange,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-120.43453,34.953132,Santa Maria,California,Reported 0 in at least 1 quarter,NA,CA
+2004,-98.500987,33.908302,Wichita Falls,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-94.101349,30.086154,Beaumont,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,NA,TN
+2004,-96.731278,43.545774,Sioux Falls,South Dakota,Reported 0 in at least 1 quarter,NA,SD
+2004,-71.41199,41.82387,Providence,Rhode Island,Reported 0 in at least 1 quarter,NA,RI
+2004,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,NA,PA
+2004,-122.435337,45.506276,Gresham,Oregon,Reported 0 in at least 1 quarter,NA,OR
+2004,-123.088537,44.049921,Eugene,Oregon,Reported 0 in at least 1 quarter,NA,OR
+2004,-97.521069,35.472031,Oklahoma City,Oklahoma,Reported 0 in at least 1 quarter,NA,OK
+2004,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2004,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2004,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2004,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,NA,NY
+2004,-78.782759,43.018882,Amherst Town,New York,Reported 0 in at least 1 quarter,NA,NY
+2004,-114.981509,36.031234,Henderson,Nevada,Reported 0 in at least 1 quarter,NA,NV
+2004,-83.137019,42.683424,Rochester,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2004,-105.076261,40.581472,Fort Collins,Colorado,Reported 0 in at least 1 quarter,NA,CO
+2004,-104.61237,38.26386,Pueblo,Colorado,Reported 0 in at least 1 quarter,NA,CO
+2004,-104.985408,39.869481,Thornton,Colorado,Reported 0 in at least 1 quarter,NA,CO
+2004,-73.542231,41.051822,Stamford,Connecticut,Reported 0 in at least 1 quarter,NA,CT
+2004,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,NA,CT
+2004,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-81.391859,30.288991,Jacksonville Beach,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-80.223238,25.927493,Miami Gardens,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-80.194758,25.983243,Pembroke Park,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-80.125218,26.231453,Pompano Beach,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,NA,FL
+2004,-86.25405,41.679073,South Bend,Indiana,Reported 0 in at least 1 quarter,NA,IN
+2004,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,NA,IA
+2004,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,NA,LA
+2004,-83.782599,43.002593,Flint Township,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2004,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2004,-78.896441,35.995424,Durham,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2004,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,NA,SC
+2004,-81.045367,33.998822,Columbia,South Carolina,Reported 0 in at least 1 quarter,NA,SC
+2004,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-102.375169,31.849131,Odessa,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,NA,TX
+2004,-122.187847,47.610016,Bellevue,Washington,Reported 0 in at least 1 quarter,NA,WA
+2005,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,NA,AZ
+2005,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,NA,AZ
+2005,-117.33822,33.165881,Carlsbad,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-122.472788,37.691093,Daly City,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-117.902367,33.663893,Costa Mesa,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-117.43576,34.102052,Fontana,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-117.211787,33.558431,Murrieta,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-122.34271,37.937814,Richmond,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-122.254947,38.100951,Vallejo,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-118.34166,33.836664,Torrance,California,Reported 0 in at least 1 quarter,NA,CA
+2007,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,159943,FL
+2005,-117.323638,34.510612,Victorville,California,Reported 0 in at least 1 quarter,NA,CA
+2005,-98.500987,33.908302,Wichita Falls,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,NA,TX
+2007,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,177090,TX
+2005,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-96.615,33.198953,McKinney,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-96.834638,33.150494,Frisco,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,NA,TN
+2005,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,NA,PA
+2005,-122.435337,45.506276,Gresham,Oregon,Reported 0 in at least 1 quarter,NA,OR
+2005,-123.088537,44.049921,Eugene,Oregon,Reported 0 in at least 1 quarter,NA,OR
+2005,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2005,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2005,-80.005201,35.955363,High Point,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2005,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,NA,NC
+2005,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,NA,NY
+2005,-78.782759,43.018882,Amherst Town,New York,Reported 0 in at least 1 quarter,NA,NY
+2005,-114.981509,36.031234,Henderson,Nevada,Reported 0 in at least 1 quarter,NA,NV
+2005,-92.334148,38.952213,Columbia,Missouri,Reported 0 in at least 1 quarter,NA,MO
+2005,-83.137019,42.683424,Rochester,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2005,-104.61237,38.26386,Pueblo,Colorado,Reported 0 in at least 1 quarter,NA,CO
+2005,-104.985408,39.869481,Thornton,Colorado,Reported 0 in at least 1 quarter,NA,CO
+2005,-72.924619,41.307622,New Haven,Connecticut,Reported 0 in at least 1 quarter,NA,CT
+2005,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-81.391859,30.288991,Jacksonville Beach,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-80.223238,25.927493,Miami Gardens,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-80.194758,25.983243,Pembroke Park,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,NA,FL
+2005,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,NA,GA
+2005,-87.564051,37.977083,Evansville,Indiana,Reported 0 in at least 1 quarter,NA,IN
+2005,-86.25405,41.679073,South Bend,Indiana,Reported 0 in at least 1 quarter,NA,IN
+2005,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,NA,IA
+2005,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,NA,LA
+2005,-83.782599,43.002593,Flint Township,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2005,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,NA,MI
+2005,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,NA,SC
+2005,-81.045367,33.998822,Columbia,South Carolina,Reported 0 in at least 1 quarter,NA,SC
+2005,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,NA,TX
+2007,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,177683,CA
+2005,-102.375169,31.849131,Odessa,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,NA,TX
+2005,-111.938757,40.607404,West Jordan,Utah,Reported 0 in at least 1 quarter,NA,UT
+2006,-80.223238,25.927493,Miami Gardens,Florida,Reported 0 in at least 1 quarter,101115,FL
+2006,-88.010008,44.513003,Green Bay,Wisconsin,Reported 0 in at least 1 quarter,101574,WI
+2006,-104.61237,38.26386,Pueblo,Colorado,Reported 0 in at least 1 quarter,105452,CO
+2006,-86.25405,41.679073,South Bend,Indiana,Reported 0 in at least 1 quarter,105959,IN
+2006,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,107087,PA
+2006,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,107733,CT
+2006,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,108371,SC
+2006,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,110520,FL
+2006,-118.12794,33.940414,Downey,California,Reported 0 in at least 1 quarter,110706,CA
+2006,-121.36514,38.409023,Elk Grove,California,Reported 0 in at least 1 quarter,113350,CA
+2006,-94.101349,30.086154,Beaumont,Texas,Reported 0 in at least 1 quarter,114967,TX
+2006,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,115498,CA
+2006,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,118009,TX
+2006,-122.254947,38.100951,Vallejo,California,Reported 0 in at least 1 quarter,118541,CA
+2006,-81.045367,33.998822,Columbia,South Carolina,Reported 0 in at least 1 quarter,118909,SC
+2006,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,123879,TX
+2006,-72.674017,41.763493,Hartford,Connecticut,Reported 0 in at least 1 quarter,124203,CT
+2006,-72.924619,41.307622,New Haven,Connecticut,Reported 0 in at least 1 quarter,124596,CT
+2006,-118.848088,34.175701,Thousand Oaks,California,Reported 0 in at least 1 quarter,125479,CA
+2006,-74.21144,40.663811,Elizabeth,New Jersey,Reported 0 in at least 1 quarter,125905,NJ
+2006,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,127125,TX
+2006,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,127715,MI
+2006,-122.037999,37.371724,Sunnyvale,California,Reported 0 in at least 1 quarter,130063,CA
+2006,-78.877271,35.05534,Fayetteville,North Carolina,Reported 0 in at least 1 quarter,132521,NC
+2006,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,133583,TX
+2006,-80.36331,27.27418,Port St. Lucie,Florida,Reported 0 in at least 1 quarter,133913,FL
+2006,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,141556,CA
+2006,-118.34166,33.836664,Torrance,California,Reported 0 in at least 1 quarter,143666,CA
+2006,-123.088537,44.049921,Eugene,Oregon,Reported 0 in at least 1 quarter,146885,OR
+2006,-121.65482,36.670884,Salinas,California,Reported 0 in at least 1 quarter,147750,CA
+2006,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,147929,TX
+2006,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,148427,TX
+2006,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,149957,NJ
+2006,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,170878,CA
+2006,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,172239,TX
+2006,-71.41199,41.82387,Providence,Rhode Island,Reported 0 in at least 1 quarter,175452,RI
+2006,-71.802188,42.263412,Worcester,Massachusetts,Reported 0 in at least 1 quarter,176956,MA
+2006,-119.180119,34.200343,Oxnard,California,Reported 0 in at least 1 quarter,185282,CA
+2007,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,187234,TX
+2006,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,186670,AR
+2006,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,188208,TX
+2006,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,188505,LA
+2006,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,197621,NC
+2006,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,199137,TX
+2006,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,213488,GA
+2006,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,214670,TX
+2006,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,215681,TX
+2006,-111.920689,33.494003,Scottsdale,Arizona,Reported 0 in at least 1 quarter,234652,AZ
+2006,-114.981509,36.031234,Henderson,Nevada,Reported 0 in at least 1 quarter,239906,NV
+2006,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,392934,FL
+2006,-97.521069,35.472031,Oklahoma City,Oklahoma,Reported 0 in at least 1 quarter,536016,OK
+2007,-88.010008,44.513003,Green Bay,Wisconsin,Reported 0 in at least 1 quarter,100010,WI
+2007,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,100933,TX
+2007,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,101322,FL
+2007,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,101812,PA
+2007,-104.61237,38.26386,Pueblo,Colorado,Reported 0 in at least 1 quarter,103958,CO
+2007,-97.72737,31.116891,Killeen,Texas,Reported 0 in at least 1 quarter,104188,TX
+2007,-117.323638,34.510612,Victorville,California,Reported 0 in at least 1 quarter,104872,CA
+2007,-80.125218,26.231453,Pompano Beach,Florida,Reported 0 in at least 1 quarter,104989,FL
+2007,-122.04388,38.249234,Fairfield,California,Reported 0 in at least 1 quarter,106098,CA
+2007,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,106383,CO
+2007,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,107241,CT
+2007,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,107397,PA
+2007,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,107501,FL
+2007,-94.101349,30.086154,Beaumont,Texas,Reported 0 in at least 1 quarter,109345,TX
+2007,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,109382,SC
+2007,-121.95509,37.35579,Santa Clara,California,Reported 0 in at least 1 quarter,109420,CA
+2007,-117.902367,33.663893,Costa Mesa,California,Reported 0 in at least 1 quarter,109835,CA
+2007,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,114644,TX
+2007,-122.254947,38.100951,Vallejo,California,Reported 0 in at least 1 quarter,116763,CA
+2007,-96.615,33.198953,McKinney,Texas,Reported 0 in at least 1 quarter,118113,TX
+2007,-122.187847,47.610016,Bellevue,Washington,Reported 0 in at least 1 quarter,118984,WA
+2007,-81.045367,33.998822,Columbia,South Carolina,Reported 0 in at least 1 quarter,120549,SC
+2007,-118.717659,34.289463,Simi Valley,California,Reported 0 in at least 1 quarter,122677,CA
+2007,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,124730,IA
+2007,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,129455,TX
+2007,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,132399,TX
+2007,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,140603,CA
+2007,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,145235,TX
+2007,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,146673,FL
+2007,-123.088537,44.049921,Eugene,Oregon,Reported 0 in at least 1 quarter,147458,OR
+2007,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,148049,NJ
+2007,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,151817,FL
+2007,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,157913,TX
+2007,-86.59,34.729294,Huntsville,Alabama,Reported 0 in at least 1 quarter,169391,AL
+2007,-71.802188,42.263412,Worcester,Massachusetts,Reported 0 in at least 1 quarter,175825,MA
+2007,-117.43576,34.102052,Fontana,California,Reported 0 in at least 1 quarter,176490,CA
+2007,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,196676,TX
+2007,-73.898739,40.932992,Yonkers,New York,Reported 0 in at least 1 quarter,198071,NY
+2007,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,198316,NC
+2007,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,213988,TX
+2007,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,215853,FL
+2007,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,221253,TX
+2007,-81.377389,28.538234,Orlando,Florida,Reported 0 in at least 1 quarter,224417,FL
+2007,-82.638757,27.771192,St. Petersburg,Florida,Reported 0 in at least 1 quarter,248069,FL
+2007,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,253842,AL
+2007,-95.993329,36.14974,Tulsa,Oklahoma,Reported 0 in at least 1 quarter,381469,OK
+2007,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,410252,FL
+2007,-110.969758,32.221551,Tucson,Arizona,Reported 0 in at least 1 quarter,523299,AZ
+2007,-97.521069,35.472031,Oklahoma City,Oklahoma,Reported 0 in at least 1 quarter,542199,OK
+2008,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,100434,FL
+2008,-122.435337,45.506276,Gresham,Oregon,Reported 0 in at least 1 quarter,100935,OR
+2008,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,100944,NC
+2008,-96.995929,33.047224,Lewisville,Texas,Reported 0 in at least 1 quarter,100947,TX
+2008,-92.334148,38.952213,Columbia,Missouri,Reported 0 in at least 1 quarter,101033,MO
+2008,-122.270538,37.869883,Berkeley,California,Reported 0 in at least 1 quarter,101170,CA
+2008,-98.500987,33.908302,Wichita Falls,Texas,Reported 0 in at least 1 quarter,101279,TX
+2008,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,102536,TN
+2008,-104.61237,38.26386,Pueblo,Colorado,Reported 0 in at least 1 quarter,104017,CO
+2008,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,104986,FL
+2008,-111.938757,40.607404,West Jordan,Utah,Reported 0 in at least 1 quarter,105772,UT
+2008,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,106810,CO
+2008,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,107157,CT
+2008,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,107335,PA
+2008,-118.12794,33.940414,Downey,California,Reported 0 in at least 1 quarter,108184,CA
+2008,-71.312841,42.645884,Lowell,Massachusetts,Reported 0 in at least 1 quarter,110136,MA
+2008,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,111645,SC
+2008,-80.220517,25.982051,Miramar,Florida,Reported 0 in at least 1 quarter,112055,FL
+2008,-121.284081,38.748931,Roseville,California,Reported 0 in at least 1 quarter,112817,CA
+2008,-117.323638,34.510612,Victorville,California,Reported 0 in at least 1 quarter,114305,CA
+2008,-87.564051,37.977083,Evansville,Indiana,Reported 0 in at least 1 quarter,115639,IN
+2008,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,116267,TX
+2008,-122.025831,37.981654,Concord,California,Reported 0 in at least 1 quarter,120679,CA
+2008,-118.717659,34.289463,Simi Valley,California,Reported 0 in at least 1 quarter,121572,CA
+2008,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,123208,TX
+2008,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,125277,NC
+2008,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,126222,FL
+2008,-96.615,33.198953,McKinney,Texas,Reported 0 in at least 1 quarter,126659,TX
+2008,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,130039,TX
+2008,-122.037999,37.371724,Sunnyvale,California,Reported 0 in at least 1 quarter,131052,CA
+2008,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,132600,TX
+2008,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,140984,CA
+2008,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,146108,FL
+2008,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,147114,TX
+2008,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,151493,AZ
+2008,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,162706,TX
+2008,-81.95694,26.629823,Cape Coral,Florida,Reported 0 in at least 1 quarter,163403,FL
+2008,-86.59,34.729294,Huntsville,Alabama,Reported 0 in at least 1 quarter,172794,AL
+2008,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,176307,CA
+2008,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,176893,TX
+2008,-71.802188,42.263412,Worcester,Massachusetts,Reported 0 in at least 1 quarter,177151,MA
+2008,-111.888217,40.760311,Salt Lake City,Utah,Reported 0 in at least 1 quarter,180514,UT
+2008,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,187674,TX
+2008,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,187978,AR
+2008,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,199434,LA
+2008,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,200470,TX
+2008,-86.300077,32.380153,Montgomery,Alabama,Reported 0 in at least 1 quarter,204398,AL
+2008,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,219594,TX
+2008,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,222870,TX
+2008,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,226460,NC
+2008,-81.377389,28.538234,Orlando,Florida,Reported 0 in at least 1 quarter,229808,FL
+2008,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,251041,AL
+2008,-111.84083,33.303383,Chandler,Arizona,Reported 0 in at least 1 quarter,253076,AZ
+2008,-114.981509,36.031234,Henderson,Nevada,Reported 0 in at least 1 quarter,256091,NV
+2008,-90.077751,29.953701,New Orleans,Louisiana,Reported 0 in at least 1 quarter,281440,LA
+2008,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,427740,FL
+2008,-86.778159,36.167843,Nashville,Tennessee,Reported 0 in at least 1 quarter,602181,TN
+2009,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,100763,FL
+2009,-88.010008,44.513003,Green Bay,Wisconsin,Reported 0 in at least 1 quarter,100836,WI
+2009,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,101438,NC
+2009,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,102675,TX
+2009,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,103837,PA
+2009,-96.995929,33.047224,Lewisville,Texas,Reported 0 in at least 1 quarter,104601,TX
+2009,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,104692,AZ
+2009,-117.211787,33.558431,Murrieta,California,Reported 0 in at least 1 quarter,105238,CA
+2009,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,105383,FL
+2009,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,107007,CT
+2009,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,107326,PA
+2009,-79.931597,32.781151,Charleston,South Carolina,Reported 0 in at least 1 quarter,113681,SC
+2009,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,116557,TX
+2009,-117.323638,34.510612,Victorville,California,Reported 0 in at least 1 quarter,117150,CA
+2009,-104.985408,39.869481,Thornton,Colorado,Reported 0 in at least 1 quarter,117415,CO
+2009,-73.542231,41.051822,Stamford,Connecticut,Reported 0 in at least 1 quarter,119507,CT
+2009,-118.717659,34.289463,Simi Valley,California,Reported 0 in at least 1 quarter,121538,CA
+2009,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,125098,TX
+2009,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,128779,IA
+2009,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,132598,TX
+2009,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,132941,TX
+2009,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,137208,NY
+2009,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,141597,FL
+2009,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,142227,CA
+2009,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,144943,NJ
+2009,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,145514,FL
+2009,-80.36331,27.27418,Port St. Lucie,Florida,Reported 0 in at least 1 quarter,164069,FL
+2009,-81.95694,26.629823,Cape Coral,Florida,Reported 0 in at least 1 quarter,164344,FL
+2009,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,164766,TX
+2009,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,174183,FL
+2009,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,176676,CA
+2009,-86.585098,34.729294,Huntsville,Alabama,Reported 0 in at least 1 quarter,178601,AL
+2009,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,179491,TX
+2009,-80.143557,26.12367,Fort Lauderdale,Florida,Reported 0 in at least 1 quarter,182942,FL
+2009,-84.987569,32.462884,Columbus,Georgia,Reported 0 in at least 1 quarter,186224,GA
+2009,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,188767,TX
+2009,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,190205,AR
+2009,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,199629,LA
+2009,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,202447,TX
+2009,-121.982169,37.550914,Fremont,California,Reported 0 in at least 1 quarter,202714,CA
+2009,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,208874,FL
+2009,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,212711,GA
+2009,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,222884,TX
+2009,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,226944,TX
+2009,-78.896441,35.995424,Durham,North Carolina,Reported 0 in at least 1 quarter,227492,NC
+2009,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,230978,NC
+2009,-111.789971,33.329804,Gilbert,Arizona,Reported 0 in at least 1 quarter,231799,AZ
+2009,-90.077751,29.953701,New Orleans,Louisiana,Reported 0 in at least 1 quarter,336425,LA
+2009,-97.107717,32.735604,Arlington,Texas,Reported 0 in at least 1 quarter,379104,TX
+2009,-78.642669,35.785514,Raleigh,North Carolina,Reported 0 in at least 1 quarter,406005,NC
+2009,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,419205,FL
+2009,-86.149957,39.766913,Indianapolis,Indiana,Reported 0 in at least 1 quarter,813471,IN
+2010,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,101267,FL
+2010,-102.375169,31.849131,Odessa,Texas,Reported 0 in at least 1 quarter,101580,TX
+2010,-122.472788,37.691093,Daly City,California,Reported 0 in at least 1 quarter,101939,CA
+2010,-122.435337,45.506276,Gresham,Oregon,Reported 0 in at least 1 quarter,102540,OR
+2010,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,102649,NC
+2010,-71.312841,42.645884,Lowell,Massachusetts,Reported 0 in at least 1 quarter,103065,MA
+2010,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,104051,TX
+2010,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,104077,PA
+2010,-122.04388,38.249234,Fairfield,California,Reported 0 in at least 1 quarter,104202,CA
+2010,-88.283239,42.03956,Elgin,Illinois,Reported 0 in at least 1 quarter,107731,IL
+2010,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,108383,CO
+2010,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,108473,PA
+2010,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,108489,CT
+2010,-83.686788,43.011444,Flint,Michigan,Reported 0 in at least 1 quarter,109245,MI
+2010,-102.074441,32.000184,Midland,Texas,Reported 0 in at least 1 quarter,109791,TX
+2010,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,112100,CA
+2010,-83.36,33.95,Athens-Clarke County,Georgia,Reported 0 in at least 1 quarter,112851,GA
+2010,-121.95509,37.35579,Santa Clara,California,Reported 0 in at least 1 quarter,112917,CA
+2010,-96.834638,33.150494,Frisco,Texas,Reported 0 in at least 1 quarter,113686,TX
+2010,-117.323638,34.510612,Victorville,California,Reported 0 in at least 1 quarter,117057,CA
+2010,-97.72737,31.116891,Killeen,Texas,Reported 0 in at least 1 quarter,122557,TX
+2010,-73.542231,41.051822,Stamford,Connecticut,Reported 0 in at least 1 quarter,122933,CT
+2010,-74.21144,40.663811,Elizabeth,New Jersey,Reported 0 in at least 1 quarter,126494,NJ
+2010,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,127039,TX
+2010,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,129605,IA
+2010,-96.890227,32.975554,Carrollton,Texas,Reported 0 in at least 1 quarter,130862,TX
+2010,-117.929099,33.870322,Fullerton,California,Reported 0 in at least 1 quarter,133139,CA
+2010,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,133964,TX
+2010,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,134623,TX
+2010,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,136284,NY
+2010,-117.850708,33.787872,Orange,California,Reported 0 in at least 1 quarter,137606,CA
+2010,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,141461,NC
+2010,-121.36514,38.409023,Elk Grove,California,Reported 0 in at least 1 quarter,142330,CA
+2010,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,142793,FL
+2010,-121.65482,36.670884,Salinas,California,Reported 0 in at least 1 quarter,144242,CA
+2010,-122.085537,37.671341,Hayward,California,Reported 0 in at least 1 quarter,144509,CA
+2010,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,145713,TX
+2010,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,147343,FL
+2010,-88.08459,41.524934,Joliet,Illinois,Reported 0 in at least 1 quarter,150723,IL
+2010,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,166866,TX
+2010,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,180040,TX
+2010,-86.585098,34.729294,Huntsville,Alabama,Reported 0 in at least 1 quarter,183357,AL
+2010,-83.92103,35.96068,Knoxville,Tennessee,Reported 0 in at least 1 quarter,185554,TN
+2010,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,190393,TX
+2010,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,192922,AR
+2010,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,199900,LA
+2010,-86.300077,32.380153,Montgomery,Alabama,Reported 0 in at least 1 quarter,203966,AL
+2010,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,206308,TX
+2010,-78.877271,35.05534,Fayetteville,North Carolina,Reported 0 in at least 1 quarter,208263,NC
+2010,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,210744,GA
+2010,-111.789971,33.329804,Gilbert,Arizona,Reported 0 in at least 1 quarter,215215,AZ
+2010,-117.825909,33.687304,Irvine,California,Reported 0 in at least 1 quarter,217193,CA
+2010,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,217995,FL
+2010,-119.813499,39.527563,Reno,Nevada,Reported 0 in at least 1 quarter,222242,NV
+2010,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,227867,TX
+2010,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,230674,TX
+2010,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,232928,NC
+2010,-111.84083,33.303383,Chandler,Arizona,Reported 0 in at least 1 quarter,241826,AZ
+2010,-82.638757,27.771192,St. Petersburg,Florida,Reported 0 in at least 1 quarter,243666,FL
+2010,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,255178,AL
+2010,-74.174211,40.731973,Newark,New Jersey,Reported 0 in at least 1 quarter,280379,NJ
+2010,-82.459269,27.946532,Tampa,Florida,Reported 0 in at least 1 quarter,347830,FL
+2010,-90.077751,29.953701,New Orleans,Louisiana,Reported 0 in at least 1 quarter,356317,LA
+2010,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,440482,FL
+2010,-81.656217,30.331474,Jacksonville,Florida,Reported 0 in at least 1 quarter,822414,FL
+2011,-116.959469,32.79495,El Cajon,California,Reported 0 in at least 1 quarter,100647,CA
+2011,-120.43453,34.953132,Santa Maria,California,Reported 0 in at least 1 quarter,100723,CA
+2011,-80.125218,26.231453,Pompano Beach,Florida,Reported 0 in at least 1 quarter,101206,FL
+2011,-117.16693,33.502481,Temecula,California,Reported 0 in at least 1 quarter,101274,CA
+2011,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,101281,FL
+2011,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,101311,TX
+2011,-102.375169,31.849131,Odessa,Texas,Reported 0 in at least 1 quarter,102043,TX
+2011,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,102111,PA
+2011,-117.33822,33.165881,Carlsbad,California,Reported 0 in at least 1 quarter,106566,CA
+2011,-77.945998,34.234971,Wilmington,North Carolina,Reported 0 in at least 1 quarter,107826,NC
+2011,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,107962,CO
+2011,-105.087838,39.80203,Arvada,Colorado,Reported 0 in at least 1 quarter,108287,CO
+2011,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,109153,FL
+2011,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,109736,TN
+2011,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,110962,CA
+2011,-102.074441,32.000184,Midland,Texas,Reported 0 in at least 1 quarter,113486,TX
+2011,-84.55225,42.73194,Lansing,Michigan,Reported 0 in at least 1 quarter,114211,MI
+2011,-89.58799,40.692362,Peoria,Illinois,Reported 0 in at least 1 quarter,115353,IL
+2011,-78.782759,43.018882,Amherst Town,New York,Reported 0 in at least 1 quarter,117610,NY
+2011,-121.95509,37.35579,Santa Clara,California,Reported 0 in at least 1 quarter,117837,CA
+2011,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,118408,PA
+2011,-96.834638,33.150494,Frisco,Texas,Reported 0 in at least 1 quarter,119451,TX
+2011,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,119526,TX
+2011,-121.284081,38.748931,Roseville,California,Reported 0 in at least 1 quarter,120184,CA
+2011,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,122746,FL
+2011,-73.542231,41.051822,Stamford,Connecticut,Reported 0 in at least 1 quarter,122870,CT
+2011,-80.220517,25.982051,Miramar,Florida,Reported 0 in at least 1 quarter,123704,FL
+2011,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,127431,TX
+2011,-97.72737,31.116891,Killeen,Texas,Reported 0 in at least 1 quarter,130613,TX
+2011,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,132610,TX
+2011,-118.144269,34.147452,Pasadena,California,Reported 0 in at least 1 quarter,138734,CA
+2011,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,142686,FL
+2011,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,142766,TX
+2011,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,145822,NY
+2011,-117.750029,34.054834,Pomona,California,Reported 0 in at least 1 quarter,150810,CA
+2011,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,152179,TX
+2011,-81.95694,26.629823,Cape Coral,Florida,Reported 0 in at least 1 quarter,156408,FL
+2011,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,156859,FL
+2011,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,167212,CA
+2011,-80.143557,26.12367,Fort Lauderdale,Florida,Reported 0 in at least 1 quarter,167777,FL
+2011,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,178706,TX
+2011,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,179087,TX
+2011,-86.585098,34.729294,Huntsville,Alabama,Reported 0 in at least 1 quarter,180972,AL
+2011,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,183848,FL
+2011,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,194708,TX
+2011,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,194988,AR
+2011,-117.43576,34.102052,Fontana,California,Reported 0 in at least 1 quarter,198374,CA
+2011,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,201134,LA
+2011,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,220841,TX
+2011,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,226422,GA
+2011,-119.813499,39.527563,Reno,Nevada,Reported 0 in at least 1 quarter,227120,NV
+2011,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,227731,FL
+2011,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,232529,NC
+2011,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,234404,TX
+2011,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,241059,TX
+2011,-82.638757,27.771192,St. Petersburg,Florida,Reported 0 in at least 1 quarter,248105,FL
+2011,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,251869,AL
+2011,-85.138311,41.080262,Fort Wayne,Indiana,Reported 0 in at least 1 quarter,254987,IN
+2011,-83.53626,41.653812,Toledo,Ohio,Reported 0 in at least 1 quarter,287418,OH
+2011,-82.459269,27.946532,Tampa,Florida,Reported 0 in at least 1 quarter,340284,FL
+2011,-90.077751,29.953701,New Orleans,Louisiana,Reported 0 in at least 1 quarter,346974,LA
+2011,-97.107717,32.735604,Arlington,Texas,Reported 0 in at least 1 quarter,373128,TX
+2011,-95.993329,36.14974,Tulsa,Oklahoma,Reported 0 in at least 1 quarter,396101,OK
+2011,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,404901,FL
+2011,-78.642669,35.785514,Raleigh,North Carolina,Reported 0 in at least 1 quarter,409014,NC
+2011,-110.969758,32.221551,Tucson,Arizona,Reported 0 in at least 1 quarter,527479,AZ
+2011,-81.656217,30.331474,Jacksonville,Florida,Reported 0 in at least 1 quarter,834429,FL
+2012,-79.97,32.85,North Charleston,South Carolina,Reported 0 in at least 1 quarter,100675,SC
+2012,-90.58,41.52,Davenport,Iowa,Reported 0 in at least 1 quarter,101193,IA
+2012,-117.37,34.11,Rialto,California,Reported 0 in at least 1 quarter,101595,CA
+2012,-80.09,42.13,Erie,Pennsylvania,Reported 0 in at least 1 quarter,101972,PA
+2012,-80.05,26.72,West Palm Beach,Florida,Reported 0 in at least 1 quarter,102422,FL
+2012,-88.02,44.52,Green Bay,Wisconsin,Reported 0 in at least 1 quarter,106080,WI
+2012,-122.04,38.25,Fairfield,California,Reported 0 in at least 1 quarter,107110,CA
+2012,-117.35,33.16,Carlsbad,California,Reported 0 in at least 1 quarter,107879,CA
+2012,-105.09,39.8,Arvada,Colorado,Reported 0 in at least 1 quarter,109029,CO
+2012,-88.28,42.04,Elgin,Illinois,Reported 0 in at least 1 quarter,109155,IL
+2012,-82.8,27.97,Clearwater,Florida,Reported 0 in at least 1 quarter,109255,FL
+2012,-117.92,33.64,Costa Mesa,California,Reported 0 in at least 1 quarter,112635,CA
+2012,-83.36,33.95,Athens-Clarke County,Georgia,Reported 0 in at least 1 quarter,117457,GA
+2012,-75.49,40.61,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,119334,PA
+2012,-121.96,37.35,Santa Clara,California,Reported 0 in at least 1 quarter,119360,CA
+2012,-112.37,33.63,Surprise,Arizona,Reported 0 in at least 1 quarter,120793,AZ
+2012,-92.02,30.22,Lafayette,Louisiana,Reported 0 in at least 1 quarter,122852,LA
+2012,-104.97,39.87,Thornton,Colorado,Reported 0 in at least 1 quarter,123115,CO
+2012,-96.82,33.15,Frisco,Texas,Reported 0 in at least 1 quarter,123205,TX
+2012,-80.27,26.27,Coral Springs,Florida,Reported 0 in at least 1 quarter,125021,FL
+2012,-91.67,41.98,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,128401,IA
+2012,-76.35,37.03,Hampton,Virginia,Reported 0 in at least 1 quarter,137905,VA
+2012,-78.78,35.79,Cary,North Carolina,Reported 0 in at least 1 quarter,141016,NC
+2012,-88.15,41.75,Naperville,Illinois,Reported 0 in at least 1 quarter,142840,IL
+2012,-80.15,26.01,Hollywood,Florida,Reported 0 in at least 1 quarter,145313,FL
+2012,-77.05,38.8,Alexandria,Virginia,Reported 0 in at least 1 quarter,145892,VA
+2012,-76.15,43.05,Syracuse,New York,Reported 0 in at least 1 quarter,145934,NY
+2012,-121.66,36.68,Salinas,California,Reported 0 in at least 1 quarter,154413,CA
+2012,-121.37,38.41,Elk Grove,California,Reported 0 in at least 1 quarter,156344,CA
+2012,-80.3,26.01,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,159744,FL
+2012,-117.59,34.11,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,169276,CA
+2012,-92.29,34.75,Little Rock,Arkansas,Reported 0 in at least 1 quarter,196055,AR
+2012,-117.44,34.09,Fontana,California,Reported 0 in at least 1 quarter,200874,CA
+2012,-93.75,32.53,Shreveport,Louisiana,Reported 0 in at least 1 quarter,202164,LA
+2012,-93.61,41.6,Des Moines,Iowa,Reported 0 in at least 1 quarter,207400,IA
+2012,-121.99,37.55,Fremont,California,Reported 0 in at least 1 quarter,218927,CA
+2012,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,231285,GA
+2012,-80.28,25.86,Hialeah,Florida,Reported 0 in at least 1 quarter,233107,FL
+2012,-111.84,33.31,Chandler,Arizona,Reported 0 in at least 1 quarter,242721,AZ
+2012,-82.63,27.75,St. Petersburg,Florida,Reported 0 in at least 1 quarter,248340,FL
+2012,-85.14,41.08,Fort Wayne,Indiana,Reported 0 in at least 1 quarter,256625,IN
+2012,-83.56,41.66,Toledo,Ohio,Reported 0 in at least 1 quarter,286020,OH
+2012,-82.46,27.95,Tampa,Florida,Reported 0 in at least 1 quarter,350758,FL
+2012,-80.19,25.76,Miami,Florida,Reported 0 in at least 1 quarter,414327,FL
+2012,-78.64,35.78,Raleigh,North Carolina,Reported 0 in at least 1 quarter,420594,NC
+2012,-84.39,33.75,Atlanta,Georgia,Reported 0 in at least 1 quarter,437041,GA
+2013,-87.82326,42.588081,Kenosha,Wisconsin,Reported 0 in at least 1 quarter,100418,WI
+2013,-96.995929,33.047224,Lewisville,Texas,Reported 0 in at least 1 quarter,100710,TX
+2013,-81.947858,28.044192,Lakeland,Florida,Reported 0 in at least 1 quarter,100725,FL
+2013,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,100814,PA
+2013,-84.37908,33.924832,Sandy Springs,Georgia,Reported 0 in at least 1 quarter,101180,GA
+2013,-74.393568,40.526793,Edison Township,New Jersey,Reported 0 in at least 1 quarter,101316,NJ
+2013,-90.576021,41.538262,Davenport,Iowa,Reported 0 in at least 1 quarter,101834,IA
+2013,-80.053188,26.714394,West Palm Beach,Florida,Reported 0 in at least 1 quarter,102510,FL
+2013,-117.372817,34.100323,Rialto,California,Reported 0 in at least 1 quarter,102520,CA
+2013,-105.27924,40.015742,Boulder,Colorado,Reported 0 in at least 1 quarter,102828,CO
+2013,-80.008588,32.877321,North Charleston,South Carolina,Reported 0 in at least 1 quarter,103324,SC
+2013,-98.500987,33.908302,Wichita Falls,Texas,Reported 0 in at least 1 quarter,104514,TX
+2013,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,104577,TX
+2013,-80.005201,35.955363,High Point,North Carolina,Reported 0 in at least 1 quarter,107261,NC
+2013,-102.375169,31.849131,Odessa,Texas,Reported 0 in at least 1 quarter,108265,TX
+2013,-97.677217,30.509042,Round Rock,Texas,Reported 0 in at least 1 quarter,108577,TX
+2013,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,108908,FL
+2013,-111.938757,40.607404,West Jordan,Utah,Reported 0 in at least 1 quarter,109831,UT
+2013,-88.283239,42.03956,Elgin,Illinois,Reported 0 in at least 1 quarter,110454,IL
+2013,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,111672,CA
+2013,-80.223238,25.927493,Miami Gardens,Florida,Reported 0 in at least 1 quarter,111870,FL
+2013,-118.12794,33.940414,Downey,California,Reported 0 in at least 1 quarter,113222,CA
+2013,-92.334148,38.952213,Columbia,Missouri,Reported 0 in at least 1 quarter,114587,MO
+2013,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,119277,PA
+2013,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,119401,TX
+2013,-87.564051,37.977083,Evansville,Indiana,Reported 0 in at least 1 quarter,120284,IN
+2013,-102.074441,32.000184,Midland,Texas,Reported 0 in at least 1 quarter,122259,TX
+2013,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,122497,AZ
+2013,-92.017051,30.220322,Lafayette,Louisiana,Reported 0 in at least 1 quarter,123409,LA
+2013,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,126608,FL
+2013,-74.21144,40.663811,Elizabeth,New Jersey,Reported 0 in at least 1 quarter,127067,NJ
+2013,-96.890227,32.975554,Carrollton,Texas,Reported 0 in at least 1 quarter,127459,TX
+2013,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,127570,TX
+2013,-95.671177,39.049281,Topeka,Kansas,Reported 0 in at least 1 quarter,128009,KS
+2013,-91.673759,41.976342,Cedar Rapids,Iowa,Reported 0 in at least 1 quarter,128642,IA
+2013,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,130634,MI
+2013,-94.81887,38.883531,Olathe,Kansas,Reported 0 in at least 1 quarter,131342,KS
+2013,-97.72737,31.116891,Killeen,Texas,Reported 0 in at least 1 quarter,136539,TX
+2013,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,143834,NY
+2013,-88.153019,41.770833,Naperville,Illinois,Reported 0 in at least 1 quarter,144221,IL
+2013,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,144313,TX
+2013,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,145082,NJ
+2013,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,146643,FL
+2013,-94.626819,39.113522,Kansas City,Kansas,Reported 0 in at least 1 quarter,147618,KS
+2013,-88.08459,41.524934,Joliet,Illinois,Reported 0 in at least 1 quarter,148462,IL
+2013,-77.04341,38.804601,Alexandria,Virginia,Reported 0 in at least 1 quarter,148519,VA
+2013,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,148905,NC
+2013,-105.076261,40.581472,Fort Collins,Colorado,Reported 0 in at least 1 quarter,150066,CO
+2013,-117.750029,34.054834,Pomona,California,Reported 0 in at least 1 quarter,151366,CA
+2013,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,161641,AZ
+2013,-81.95694,26.629823,Cape Coral,Florida,Reported 0 in at least 1 quarter,163461,FL
+2013,-117.57384,34.102613,Rancho Cucamonga,California,Reported 0 in at least 1 quarter,172262,CA
+2013,-80.143557,26.12367,Fort Lauderdale,Florida,Reported 0 in at least 1 quarter,172398,FL
+2013,-90.180487,32.298694,Jackson,Mississippi,Reported 0 in at least 1 quarter,176039,MS
+2013,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,181590,TX
+2013,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,183822,TX
+2013,-86.59,34.73,Huntsville,Alabama,Reported 0 in at least 1 quarter,184738,AL
+2013,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,196577,TX
+2013,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,197399,AR
+2014,-122.254947,38.100951,Vallejo,California,Reported 0 in at least 1 quarter,119504,CA
+2013,-84.987569,32.462884,Columbus,Georgia,Reported 0 in at least 1 quarter,201165,GA
+2013,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,202189,LA
+2013,-93.615647,41.589762,Des Moines,Iowa,Reported 0 in at least 1 quarter,207391,IA
+2013,-121.982169,37.550914,Fremont,California,Reported 0 in at least 1 quarter,224475,CA
+2013,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,228367,TX
+2013,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,234182,FL
+2013,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,235200,GA
+2013,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,235811,NC
+2013,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,237875,TX
+2013,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,247353,TX
+2013,-111.84083,33.303383,Chandler,Arizona,Reported 0 in at least 1 quarter,248718,AZ
+2013,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,250557,AL
+2013,-83.53626,41.653812,Toledo,Ohio,Reported 0 in at least 1 quarter,283035,OH
+2013,-117.915411,33.832823,Anaheim,California,Reported 0 in at least 1 quarter,345320,CA
+2013,-82.459269,27.946532,Tampa,Florida,Reported 0 in at least 1 quarter,351314,FL
+2013,-97.107717,32.735604,Arlington,Texas,Reported 0 in at least 1 quarter,378765,TX
+2013,-95.993329,36.14974,Tulsa,Oklahoma,Reported 0 in at least 1 quarter,394498,OK
+2013,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,418394,FL
+2014,-87.82326,42.588081,Kenosha,Wisconsin,Reported 0 in at least 1 quarter,100025,WI
+2014,-80.0855,42.129822,Erie,Pennsylvania,Reported 0 in at least 1 quarter,100403,PA
+2014,-119.694767,36.823951,Clovis,California,Reported 0 in at least 1 quarter,100705,CA
+2014,-86.25405,41.679073,South Bend,Indiana,Reported 0 in at least 1 quarter,100853,IN
+2014,-95.294298,32.347633,Tyler,Texas,Reported 0 in at least 1 quarter,100969,TX
+2014,-84.37908,33.924832,Sandy Springs,Georgia,Reported 0 in at least 1 quarter,101184,GA
+2014,-81.947858,28.044192,Lakeland,Florida,Reported 0 in at least 1 quarter,101428,FL
+2014,-74.393568,40.526793,Edison Township,New Jersey,Reported 0 in at least 1 quarter,101965,NJ
+2014,-96.995929,33.047224,Lewisville,Texas,Reported 0 in at least 1 quarter,102439,TX
+2014,-117.372817,34.100323,Rialto,California,Reported 0 in at least 1 quarter,102540,CA
+2014,-90.576021,41.538262,Davenport,Iowa,Reported 0 in at least 1 quarter,102715,IA
+2014,-116.959469,32.79495,El Cajon,California,Reported 0 in at least 1 quarter,102838,CA
+2014,-120.43453,34.953132,Santa Maria,California,Reported 0 in at least 1 quarter,102885,CA
+2014,-105.27924,40.015742,Boulder,Colorado,Reported 0 in at least 1 quarter,104284,CO
+2014,-95.789501,36.05084,Broken Arrow,Oklahoma,Reported 0 in at least 1 quarter,104592,OK
+2014,-88.010008,44.513003,Green Bay,Wisconsin,Reported 0 in at least 1 quarter,104979,WI
+2014,-80.125218,26.231453,Pompano Beach,Florida,Reported 0 in at least 1 quarter,105523,FL
+2014,-80.008588,32.877321,North Charleston,South Carolina,Reported 0 in at least 1 quarter,105594,SC
+2014,-117.16693,33.502481,Temecula,California,Reported 0 in at least 1 quarter,108308,CA
+2014,-122.34271,37.937814,Richmond,California,Reported 0 in at least 1 quarter,108464,CA
+2014,-71.312841,42.645884,Lowell,Massachusetts,Reported 0 in at least 1 quarter,109729,MA
+2014,-82.799747,27.965582,Clearwater,Florida,Reported 0 in at least 1 quarter,110075,FL
+2014,-71.463089,42.991172,Manchester,New Hampshire,Reported 0 in at least 1 quarter,110571,NH
+2014,-88.283239,42.03956,Elgin,Illinois,Reported 0 in at least 1 quarter,110595,IL
+2014,-92.459847,44.019321,Rochester,Minnesota,Reported 0 in at least 1 quarter,111712,MN
+2014,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,112100,CO
+2014,-97.677217,30.509042,Round Rock,Texas,Reported 0 in at least 1 quarter,112199,TX
+2014,-117.33822,33.165881,Carlsbad,California,Reported 0 in at least 1 quarter,112297,CA
+2014,-80.223238,25.927493,Miami Gardens,Florida,Reported 0 in at least 1 quarter,112373,FL
+2014,-117.902367,33.663893,Costa Mesa,California,Reported 0 in at least 1 quarter,112709,CA
+2014,-118.12794,33.940414,Downey,California,Reported 0 in at least 1 quarter,113595,CA
+2014,-111.6685,40.233703,Provo,Utah,Reported 0 in at least 1 quarter,117158,UT
+2014,-78.782759,43.018882,Amherst Town,New York,Reported 0 in at least 1 quarter,118860,NY
+2014,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,119005,TN
+2014,-87.564051,37.977083,Evansville,Indiana,Reported 0 in at least 1 quarter,120372,IN
+2014,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,120686,TX
+2014,-121.95509,37.35579,Santa Clara,California,Reported 0 in at least 1 quarter,121114,CA
+2014,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,125049,AZ
+2014,-92.017051,30.220322,Lafayette,Louisiana,Reported 0 in at least 1 quarter,125122,LA
+2014,-97.130978,33.216562,Denton,Texas,Reported 0 in at least 1 quarter,125248,TX
+2014,-122.025831,37.981654,Concord,California,Reported 0 in at least 1 quarter,126744,CA
+2014,-102.074441,32.000184,Midland,Texas,Reported 0 in at least 1 quarter,127344,TX
+2014,-95.671177,39.049281,Topeka,Kansas,Reported 0 in at least 1 quarter,127673,KS
+2014,-80.253149,26.272492,Coral Springs,Florida,Reported 0 in at least 1 quarter,127939,FL
+2014,-74.21144,40.663811,Elizabeth,New Jersey,Reported 0 in at least 1 quarter,128345,NJ
+2014,-96.890227,32.975554,Carrollton,Texas,Reported 0 in at least 1 quarter,128577,TX
+2014,-118.848088,34.175701,Thousand Oaks,California,Reported 0 in at least 1 quarter,129175,CA
+2014,-104.985408,39.869481,Thornton,Colorado,Reported 0 in at least 1 quarter,129442,CO
+2014,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,129944,TX
+2014,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,131604,MI
+2014,-94.81887,38.883531,Olathe,Kansas,Reported 0 in at least 1 quarter,133341,KS
+2014,-122.187847,47.610016,Bellevue,Washington,Reported 0 in at least 1 quarter,135449,WA
+2014,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,138122,TX
+2014,-96.834638,33.150494,Frisco,Texas,Reported 0 in at least 1 quarter,141940,TX
+2014,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,144396,TX
+2014,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,144534,NY
+2014,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,146083,NJ
+2014,-80.160077,26.010411,Hollywood,Florida,Reported 0 in at least 1 quarter,147918,FL
+2014,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,153540,TX
+2014,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,154978,NC
+2014,-123.088537,44.049921,Eugene,Oregon,Reported 0 in at least 1 quarter,159882,OR
+2014,-117.574938,33.87852,Corona,California,Reported 0 in at least 1 quarter,161128,CA
+2014,-121.36514,38.409023,Elk Grove,California,Reported 0 in at least 1 quarter,162957,CA
+2014,-80.280108,26.008112,Pembroke Pines,Florida,Reported 0 in at least 1 quarter,164372,FL
+2014,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,164722,AZ
+2014,-117.648097,34.06457,Ontario,California,Reported 0 in at least 1 quarter,168278,CA
+2014,-90.180487,32.298694,Jackson,Mississippi,Reported 0 in at least 1 quarter,172376,MS
+2014,-122.71244,38.437902,Santa Rosa,California,Reported 0 in at least 1 quarter,172991,CA
+2014,-80.143557,26.12367,Fort Lauderdale,Florida,Reported 0 in at least 1 quarter,174056,FL
+2014,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,183433,TX
+2014,-97.007199,32.747701,Grand Prairie,Texas,Reported 0 in at least 1 quarter,185273,TX
+2014,-84.280651,30.439773,Tallahassee,Florida,Reported 0 in at least 1 quarter,187573,FL
+2014,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,197724,TX
+2014,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,198217,AR
+2014,-93.747268,32.51461,Shreveport,Louisiana,Reported 0 in at least 1 quarter,200184,LA
+2014,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,231708,TX
+2014,-80.281499,25.826984,Hialeah,Florida,Reported 0 in at least 1 quarter,235446,FL
+2014,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,236682,GA
+2014,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,238082,NC
+2014,-78.896441,35.995424,Durham,North Carolina,Reported 0 in at least 1 quarter,249738,NC
+2014,-88.05,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,250655,AL
+2014,-82.638757,27.771192,St. Petersburg,Florida,Reported 0 in at least 1 quarter,250772,FL
+2014,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,250994,TX
+2014,-96.699247,33.020794,Plano,Texas,Reported 0 in at least 1 quarter,277822,TX
+2014,-117.915411,33.832823,Anaheim,California,Reported 0 in at least 1 quarter,346956,CA
+2014,-82.459269,27.946532,Tampa,Florida,Reported 0 in at least 1 quarter,357124,FL
+2014,-97.107717,32.735604,Arlington,Texas,Reported 0 in at least 1 quarter,382976,TX
+2014,-95.993329,36.14974,Tulsa,Oklahoma,Reported 0 in at least 1 quarter,399556,OK
+2014,-80.197728,25.774813,Miami,Florida,Reported 0 in at least 1 quarter,421996,FL
+2014,-81.656217,30.331474,Jacksonville,Florida,Reported 0 in at least 1 quarter,856021,FL
+2015,-87.82326,42.588081,Kenosha,Wisconsin,Reported 0 in at least 1 quarter,100038,WI
+2015,-90.576021,41.538262,Davenport,Iowa,Reported 0 in at least 1 quarter,103082,IA
+2015,-84.37908,33.924832,Sandy Springs,Georgia,Reported 0 in at least 1 quarter,103898,GA
+2015,-120.43453,34.953132,Santa Maria,California,Reported 0 in at least 1 quarter,104355,CA
+2015,-98.500987,33.908302,Wichita Falls,Texas,Reported 0 in at least 1 quarter,105186,TX
+2015,-96.325898,30.620541,College Station,Texas,Reported 0 in at least 1 quarter,105855,TX
+2015,-95.789501,36.05084,Broken Arrow,Oklahoma,Reported 0 in at least 1 quarter,106145,OK
+2015,-73.04617,41.554072,Waterbury,Connecticut,Reported 0 in at least 1 quarter,109044,CT
+2015,-117.211787,33.558431,Murrieta,California,Reported 0 in at least 1 quarter,109495,CA
+2015,-96.732968,32.960741,Richardson,Texas,Reported 0 in at least 1 quarter,111008,TX
+2015,-118.35698,33.96178,Inglewood,California,Reported 0 in at least 1 quarter,112450,CA
+2015,-117.902367,33.663893,Costa Mesa,California,Reported 0 in at least 1 quarter,113477,CA
+2015,-105.048871,39.86347,Westminster,Colorado,Reported 0 in at least 1 quarter,113547,CO
+2015,-117.33822,33.165881,Carlsbad,California,Reported 0 in at least 1 quarter,113972,CA
+2015,-118.12794,33.940414,Downey,California,Reported 0 in at least 1 quarter,114754,CA
+2015,-111.6685,40.233703,Provo,Utah,Reported 0 in at least 1 quarter,115294,UT
+2015,-97.677217,30.509042,Round Rock,Texas,Reported 0 in at least 1 quarter,115955,TX
+2015,-89.58799,40.692362,Peoria,Illinois,Reported 0 in at least 1 quarter,116066,IL
+2015,-75.470257,40.602602,Allentown,Pennsylvania,Reported 0 in at least 1 quarter,119335,PA
+2015,-87.564051,37.977083,Evansville,Indiana,Reported 0 in at least 1 quarter,120414,IN
+2015,-122.254947,38.100951,Vallejo,California,Reported 0 in at least 1 quarter,121257,CA
+2015,-99.741421,32.449173,Abilene,Texas,Reported 0 in at least 1 quarter,121764,TX
+2015,-121.95509,37.35579,Santa Clara,California,Reported 0 in at least 1 quarter,123562,CA
+2015,-86.394349,35.844393,Murfreesboro,Tennessee,Reported 0 in at least 1 quarter,123994,TN
+2015,-92.017051,30.220322,Lafayette,Louisiana,Reported 0 in at least 1 quarter,127273,LA
+2015,-112.366757,33.623721,Surprise,Arizona,Reported 0 in at least 1 quarter,128525,AZ
+2015,-74.21144,40.663811,Elizabeth,New Jersey,Reported 0 in at least 1 quarter,129364,NJ
+2015,-97.149498,31.571824,Waco,Texas,Reported 0 in at least 1 quarter,131413,TX
+2015,-83.01356,42.593402,Sterling Heights,Michigan,Reported 0 in at least 1 quarter,132255,MI
+2015,-102.074441,32.000184,Midland,Texas,Reported 0 in at least 1 quarter,132625,TX
+2015,-104.985408,39.869481,Thornton,Colorado,Reported 0 in at least 1 quarter,133188,CO
+2015,-94.81887,38.883531,Olathe,Kansas,Reported 0 in at least 1 quarter,134830,KS
+2015,-97.72737,31.116891,Killeen,Texas,Reported 0 in at least 1 quarter,140497,TX
+2015,-98.229361,26.207424,McAllen,Texas,Reported 0 in at least 1 quarter,140593,TX
+2015,-76.147379,43.050282,Syracuse,New York,Reported 0 in at least 1 quarter,144027,NY
+2015,-96.602081,32.783391,Mesquite,Texas,Reported 0 in at least 1 quarter,145569,TX
+2015,-74.171637,40.916614,Paterson,New Jersey,Reported 0 in at least 1 quarter,146588,NJ
+2015,-88.153019,41.770833,Naperville,Illinois,Reported 0 in at least 1 quarter,147101,IL
+2015,-88.08459,41.524934,Joliet,Illinois,Reported 0 in at least 1 quarter,147991,IL
+2015,-94.626819,39.113522,Kansas City,Kansas,Reported 0 in at least 1 quarter,150370,KS
+2015,-105.082067,39.710924,Lakewood,Colorado,Reported 0 in at least 1 quarter,151311,CO
+2015,-122.037999,37.371724,Sunnyvale,California,Reported 0 in at least 1 quarter,152443,CA
+2015,-117.750029,34.054834,Pomona,California,Reported 0 in at least 1 quarter,154410,CA
+2015,-95.1957,29.690842,Pasadena,Texas,Reported 0 in at least 1 quarter,154986,TX
+2015,-78.781158,35.78975,Cary,North Carolina,Reported 0 in at least 1 quarter,160291,NC
+2015,-117.574938,33.87852,Corona,California,Reported 0 in at least 1 quarter,163633,CA
+2015,-112.240898,33.577312,Peoria,Arizona,Reported 0 in at least 1 quarter,170222,AZ
+2015,-96.731278,43.545774,Sioux Falls,South Dakota,Reported 0 in at least 1 quarter,172313,SD
+2015,-111.937241,33.425512,Tempe,Arizona,Reported 0 in at least 1 quarter,175556,AZ
+2015,-97.499241,25.90209,Brownsville,Texas,Reported 0 in at least 1 quarter,184941,TX
+2015,-92.274851,34.748704,Little Rock,Arkansas,Reported 0 in at least 1 quarter,198647,AR
+2015,-101.833891,35.207251,Amarillo,Texas,Reported 0 in at least 1 quarter,198770,TX
+2015,-86.300077,32.380153,Montgomery,Alabama,Reported 0 in at least 1 quarter,199139,AL
+2015,-117.43576,34.102052,Fontana,California,Reported 0 in at least 1 quarter,206982,CA
+2015,-91.18699,30.443342,Baton Rouge,Louisiana,Reported 0 in at least 1 quarter,228727,LA
+2015,-96.9555,32.813511,Irving,Texas,Reported 0 in at least 1 quarter,236465,TX
+2015,-96.636548,32.914274,Garland,Texas,Reported 0 in at least 1 quarter,237593,TX
+2015,-81.1,32.08,Savannah-Chatham Metropolitan,Georgia,Reported 0 in at least 1 quarter,240178,GA
+2015,-80.241087,36.099623,Winston-Salem,North Carolina,Reported 0 in at least 1 quarter,241631,NC
+2015,-101.845009,33.584514,Lubbock,Texas,Reported 0 in at least 1 quarter,247271,TX
+2015,-88.052967,30.68648,Mobile,Alabama,Reported 0 in at least 1 quarter,250346,AL
+2015,-99.502231,27.530922,Laredo,Texas,Reported 0 in at least 1 quarter,256280,TX
+2015,-74.174211,40.731973,Newark,New Jersey,Reported 0 in at least 1 quarter,280888,NJ
+2015,-117.915411,33.832823,Anaheim,California,Reported 0 in at least 1 quarter,349471,CA
+2015,-97.107717,32.735604,Arlington,Texas,Reported 0 in at least 1 quarter,387565,TX
+2015,-95.993329,36.14974,Tulsa,Oklahoma,Reported 0 in at least 1 quarter,401520,OK
